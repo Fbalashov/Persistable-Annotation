@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Persistable Annotations</string>
+    <string name="increment_button">increment</string>
+</resources>
